@@ -59,11 +59,11 @@ EMOJIOS = [
 ]
 
 
-BOT = "https://files.catbox.moe/6px3gg.jpg"
+BOT = "https://envs.sh/s3Z.jpg"
 IMG = [
-    "https://files.catbox.moe/6px3gg.jpg",
-    "https://files.catbox.moe/6px3gg.jpg",
-    "https://files.catbox.moe/6px3gg.jpg",
+    "https://envs.sh/s3Z.jpg",
+    "https://envs.sh/s3Z.jpg",
+    "https://envs.sh/s3Z.jpg",
 ]
 
 
